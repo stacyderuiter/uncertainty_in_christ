@@ -1,9 +1,7 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+Welcome! This is a collection of devotions and meditations for the
+statistics classroom. It is a work in progress.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+If you have questions or comments, please [reach
+out.](https://calvin.edu/directory/people/stacy-l-de-ruiter "contact info for Stacy:")
