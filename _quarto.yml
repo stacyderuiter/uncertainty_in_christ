@@ -4,10 +4,23 @@ project:
 book:
   title: "Uncertainty in Christ"
   author: "Stacy DeRuiter"
-  date: "Summer 2023"
+  date: "June 2023"
   chapters:
     - index.qmd
     - p-values.qmd
+    - certainty-uncertainty.qmd
+    - gratitude.qmd
+    - kindness-ripples.qmd
+    - diversity.qmd
+    - something-old.qmd
+    - why-model.qmd
+    - brendan.qmd
+    - doors.qmd
+    - not-a-score.qmd
+    - reciprocity.qmd
+    - the-least.qmd
+    - all-emotional.qmd
+    - representative.qmd
     - summary.qmd
     - references.qmd
 

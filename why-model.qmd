@@ -1,0 +1,4 @@
+# All Wrong
+
+something about model selection and the purpose of modeling. how is it
+useful? seeing in part?

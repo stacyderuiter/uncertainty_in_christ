@@ -1,7 +1,9 @@
 # Preface {.unnumbered}
 
 Welcome! This is a collection of devotions and meditations for the
-statistics classroom. It is a work in progress.
+statistics classroom. It is a work in progress. (Currently, it's utterly
+under construction; it's in the form of notes that will not make sense
+to anyone but me! Please hold for updates later this summer...)
 
 If you have questions or comments, please [reach
 out.](https://calvin.edu/directory/people/stacy-l-de-ruiter "contact info for Stacy:")
